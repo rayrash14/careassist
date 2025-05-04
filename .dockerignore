@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+streamlit_app.py
+test_requirements.txt
+sample.wav
+test.wav
+
